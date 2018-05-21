@@ -264,6 +264,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     validates_timeliness (4.0.2)
       timeliness (~> 0.3.7)
+    vuejs-rails (2.5.13)
     web-console (3.5.1)
       actionview (>= 5.0)
       activemodel (>= 5.0)
@@ -321,6 +322,7 @@ DEPENDENCIES
   tzinfo-data
   uglifier (= 4.1.2)
   validates_timeliness (= 4.0.2)
+  vuejs-rails
   web-console (= 3.5.1)
   will_paginate (= 3.1.6)
 
